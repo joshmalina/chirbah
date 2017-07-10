@@ -8,7 +8,6 @@ favicon: /favicon.ico
 twitter_handler: Joshua_R_Malina
 analytics_code: UA-XXXXXXX-2
 disqus: your_disqus_site
-production_url: http://joshmalina.github.io
 
 # Social Accounts
 social_networks:
@@ -56,10 +55,10 @@ defaults:
 
 # Serving
 url: ""
-baseurl: "/chirbah"
+baseurl: ""
 
 # Includes
-#include: ["_pages"]
+include: []#["_pages"]
 
 # Outputting
 permalink: /:categories/:title.html
