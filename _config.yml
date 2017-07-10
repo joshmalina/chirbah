@@ -8,6 +8,7 @@ favicon: /favicon.ico
 twitter_handler: Joshua_R_Malina
 analytics_code: UA-XXXXXXX-2
 disqus: your_disqus_site
+production_url: http://joshmalina.github.io/chirbah
 
 # Social Accounts
 social_networks:
