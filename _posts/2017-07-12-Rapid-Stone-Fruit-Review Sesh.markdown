@@ -23,7 +23,7 @@ If you're looking for long winded, light-hearted hilarity and patient prose, com
 
 ||Juicy|Sweet|Price|Recommend|
 |--- |---|---|---|---|
-|Kroger Organic Yellow Nectarine|3|2|$2.99 / lb|Yes|
+|Kroger Organic Yellow Nectarine|3 = Juicy|2 = Sweet|$2.99 / lb|Yes|
 
 This nectarine was fairly sweet and juicy. The skin was a little tough, but I enjoyed eating it. If you don't mind the price, it's a good option.
 
@@ -37,7 +37,7 @@ This nectarine was fairly sweet and juicy. The skin was a little tough, but I en
 
 ||Juicy|Sweet|Price|Recommend|
 |--- |---|---|---|---|
-|Kroger Conventional White Nectarine|2|2|$2.19 / lb|Yes|
+|Kroger Conventional White Nectarine|2 = Conservatively juicy|2 = Sweet|$2.19 / lb|Yes|
 
 Admittedly, I was not expecting to like this nectarine. You see, I began this experiment as a snob,
 and this was a conventional nectarine from Kroger. But this was good, and it ripened overnight.
@@ -54,7 +54,7 @@ They're sweet in a different sort of way than the yellow ones. For $2.19 / lb, t
 
 ||Juicy|Sweet|Price|Recommend|
 |--- |---|---|---|---|
-|Yellow Conventional Nectarine|1|0|$1.88 / lb|No|
+|Yellow Conventional Nectarine|1 = Some juice|0 = Not sweet|$1.88 / lb|No|
 
 My first bad review. This nectarine is terrible. And not terrible in a good way. Terrible in a disappointing way.
 You see, this nectarine smelled great. But was it juicy? No. Was it sweet? No way. You can do better, Kroger.
