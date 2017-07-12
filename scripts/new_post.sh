@@ -16,6 +16,7 @@ ___
 
 today=$(date +"%Y-%m-%d")
 
-filename="../_posts/$today-$title.markdown"
+hyphenized="${title// /_}"
+filename="../_posts/$today-$hyphenized.markdown"
 
 printf %s "${OUTPUT}" >> $filename

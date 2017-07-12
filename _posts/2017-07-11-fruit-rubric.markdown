@@ -45,8 +45,8 @@ td{
 </style>
 
 
-|Juicy|Sweet|
-|--- |--- |
+||Juicy|Sweet|
+|--- |---|---|
 |4|Juice is running down your elbow|--|
 |3|Juicy|Extremely Sweet|
 |2|Conservatively juicy|Sweet|
