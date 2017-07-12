@@ -7,8 +7,8 @@ tags: nectarine, organic
 description: "Quick summary of some Kroger fruit I ate a few weeks ago"
 ---
 
-<b>tl,dr: If you are a Kroger's shopper (at 29 and Hudraulic), buy
-the non-organic white nectarines They're sweet and juicy and not too expensive</b>
+<b>tl,dr: If you are a Kroger's shopper (at 29 and Hydraulic), buy
+the non-organic white nectarines. They're sweet and juicy and not too expensive</b>
 
 I'm catching up on some old fruit reviews that I didn't have time to post.
 I apologize for my brevity, but each of the following reviews
