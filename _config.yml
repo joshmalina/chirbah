@@ -9,10 +9,12 @@ twitter_handler: Joshua_R_Malina
 analytics_code: UA-102501204-1
 disqus: chirbah.disqus.com
 
+# ADD THE RUBRIC TO THE SIDE
+
 # Social Accounts
 social_networks:
 -  { name: facebook, url: '' }
--  { name: twitter, url: '' }
+-  { name: twitter, url: 'Joshua_R_Malina' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
 -  { name: linkedin, url: '' }

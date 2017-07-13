@@ -11,7 +11,7 @@ date: $timestamp
 author: Josh Malina
 tags:
 description:
-___
+---
 "
 
 today=$(date +"%Y-%m-%d")

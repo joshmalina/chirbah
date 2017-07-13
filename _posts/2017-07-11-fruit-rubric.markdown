@@ -5,6 +5,7 @@ author: Josh Malina
 date: 2017-07-11 08:39:00
 tags: process
 description: How we evaluate our fruit
+comments: true
 ---
 
 At the top of each fruit post, the reader might have noticed some numeric scores for sweetness and juicyness.

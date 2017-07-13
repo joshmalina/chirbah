@@ -5,6 +5,7 @@ date: '2017-07-12T11:09:58'
 author: Josh Malina
 tags: nectarine, organic
 description: "Quick summary of some Kroger fruit I ate a few weeks ago"
+comments: true
 ---
 
 <style>
