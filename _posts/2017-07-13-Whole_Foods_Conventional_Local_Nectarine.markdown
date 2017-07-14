@@ -4,7 +4,8 @@ title: Whole Foods Conventional Local Nectarine
 date: '2017-07-13T07:38:45'
 author: Josh Malina
 tags: nectarine conventional whole foods local
-description:
+description: "a very good nectarine was found at whole foods"
+comments: true
 ---
 
 <b>tl,dr: WF Conventional, Batesville Grown; Juicyness = 3, Sweetness = 3; Price = $2.49 / lb; Recommend: without reservation!</b>
