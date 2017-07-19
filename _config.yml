@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "chirbah.com"
+url: "http://chirbah.com"
 baseurl: ""
 
 # Includes
