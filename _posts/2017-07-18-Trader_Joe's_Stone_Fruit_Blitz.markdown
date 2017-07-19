@@ -7,7 +7,7 @@ tags: nectarine peach trader joe's
 description: A quick review of three of the stone fruits on offer from Trader Joe's this summer
 ---
 
-<b>tl,dr: Most of the stone fruit at Trader Joe's is not worth buying, but the saturn peaches are intriguing.</b>
+<b>tl,dr: Most of the stone fruit at Trader Joe's is not worth buying, but the <a href="#trader-joes-yellow-saturn-nectarine">saturn peaches</a> are intriguing.</b>
 
 I've got mixed feelings about TJ's stone fruit. On one hand, it's been pretty bad this summer.
 On the other, the surprisingly bad quality inspired me to start this blog in the first place.
@@ -69,8 +69,7 @@ for them to soften.
 
 Because these peaches were confusing, I can't recommend them. But, I hope to give them another shot later this summer.
 
-<em>Honestly, I feel bad for all the TJ stone throwing. It's really one of my favorite grocery stores. And I'd like to say
-there's no more to shade to be thrown on TJ's fruit, but unfortunately more bad news is on the way. Stay tuned,
- dear reader.</em>
+<em>Honestly, I feel bad for all the TJ stone throwing -- it's really one of my favorite grocery stores. And I'd like to say
+that no more shade will be thrown on TJ's fruit, but unfortunately more bad news is on the way.</em>
 
 
