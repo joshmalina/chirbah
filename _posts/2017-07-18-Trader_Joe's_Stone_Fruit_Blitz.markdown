@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trader Joe's Stone Fruit Blitz
+title: Trader Joe's Stone Fruit Freakout
 date: '2017-07-18T19:30:05'
 author: Josh Malina
 tags: nectarine peach trader joe's
