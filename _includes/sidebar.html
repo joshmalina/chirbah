@@ -1,7 +1,7 @@
 <aside class="user-profile {% if site.fixed_sidebar == 1 %}fixed{% endif %}" role="complementary">
     <!--a href="{{ site.baseurl | prepend: site.url }}"--><a href="/"><img class="avatar" src="{% if site.avatar %}{{site.avatar}}{% else %}{{ site.email | to_gravatar:140 }}{% endif %}" /></a>
-    <strong class="my-name">{{ site.name }}</strong>
-    <span class="my-job-title">{{ site.job_title }}</span>
+    <!--strong class="my-name">{{ site.name }}</strong-->
+    <span class="my-job-title" style="margin: auto;">{{ site.job_title }}</span>
 
     {% if site.show_menu == 1 %}
         {% if site.pages %}
@@ -31,3 +31,10 @@
         {% endif %}
     </ul>
 </aside>
+
+
+<style>
+    .user-profile .avatar {
+        max-width: 160px; max-height: 160px; border-radius: 0; margin: auto;
+    }
+</style>

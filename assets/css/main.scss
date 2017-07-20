@@ -7,7 +7,7 @@
 
 .user-profile { position: relative; float: left; width: 28%; margin-right: 4%; padding: 20px 0 0; text-align: center;
 	& > * { display: block; }
-	.avatar { max-width: 140px; max-height: 140px; border-radius: 50%; margin: 0 auto 25px; }
+	.avatar { max-width: 160px; max-height: 160px; }//border-radius: 50%; margin: 0 auto 25px; }
 	.my-name { font-size: 24px; font-weight: 700; line-height: 30px; color: $grey-color-dark; }
 	.my-job-title { font-size: 14px; font-weight: 300; margin: 5px 0 0; }
 	.mainmenu { margin: 40px 0; text-align: center;
