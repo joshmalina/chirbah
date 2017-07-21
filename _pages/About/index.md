@@ -9,29 +9,37 @@ permalink: "/about/"
     <figcaption>This apple looks good, right? Too bad you have no idea what it tastes like!</figcaption>
 </figure>
 
-War. Disease. Famine. Big problems, aren't they? Problems people should be solving. Problems about life and death.
+War. Disease. Famine -- big problems. Problems people should be solving. Problems about life and death.
 
-Not what this blog is about.
+Not this blog's concern.
 
-Here we're talking about fruit, kiddos. Apples, nectarines, peaches and plums. Watermelon, cantaloupe, kiwis and apricots. Nobody is dying. But hey, there's more to
-life than death.
+Here our concern is fruit. Those sweet things that hang from trees and bushes, that you put in your cereal, that you cook
+and make a nice compote, or just eat outright.
+ They are ostensibly healthy, but also contain sugar, which has recently fallen out of fashion.
 
-There's chirbah.
+If we are to eat these <em>modern day cigarettes</em>, we might as well eat the good ones.
 
-Here at chirbah, we are trying to solve an information asymmetry problem. Not unlike buying a used car, the current process of buying
-  fruit is fraught with mystery, hijinks, and backroom deals. Not sure about those last two. But definitely mystery.
+That's where chirbah comes in.
 
-  Sure the fruit (or car) might look good. It might even smell nice. ut is it a good piece of fruit? Or is it a lemon.
+At chirbah, we are solving the mealy apple problem. We all know what it's like to have a bad apple. To go to the store
+ with high hopes of buying a sweet peach, and coming home with a lemon.
 
-  The reality is, despite all the tricks (tapping, sniffing, squeezing), there's no substitute for bona fide experience. You must eat the fruit
-  to know the fruit.
+ The reality is that despite their outward appearance, and despite our best efforts at knowing their inner quality --
+ the frantic tapping, sniffing, squeezing and shaking of fruit -- we fail time and time again to pick a winner.
 
-  But by then, it's too late. We have a bad apple and it's spoiling the bunch!
+ There is no substitute for the bite, the lick, the taste of the fruit you plan to buy -- and outside of farmer's markets, where
+ the fruit is cut up and available for tasting, or certain grocery stores, where staff are happy to cut things up to let you try --
+  -- eating first the thing that you want to buy is often not an option.
 
-  The good folks of chirbah say no more. They say, "No way, Jose!". They say give me your tired, your hungry, your desperate for quality fruit
-  at good prices and we'll fix you right up.
+We at chirbah aren't satisfied with this state of affairs. We've been burned once too many times by the
+siren song of sweetly smelling stone fruit -- only to be disappointed later when we eat it.
 
-  Chirbah is a website where people review the fruit they eat. They go to the grocery stores in your neighborhood
-  and buy all the plums, from all the stores, and report the results.  Then you know which to buy, and which to avoid.
+So, we (and the community of chirbah users and reviewers) are eating that fruit for you. We're making the bad face, eating the tart
+peach, so you don't have to. We're in your community, in your grocery store, having the experiences you'd rather avoid -- and we're telling
+you about it.
 
-  Hope you enjoy the blog. You can find a little more information in my first post <a href="/welcome-to-chirbah.html">here</a>.
+Now you know, at any given time, in any given place, which fruit to buy, and which to avoid.
+
+Anyway, that's the grand plan. At the moment, it's only one person with a blog eating far too many fruit.
+
+Hope you enjoy. You can find a little more information in my first post <a href="/welcome-to-chirbah.html">here</a>.
