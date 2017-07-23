@@ -48,7 +48,7 @@ recommend. Learn from my prejudice folk -- don't knock it till you try it.
     <figcaption>Don't miss these peaches at Costco -- they dream!</figcaption>
 </figure>
 
-<em>Bonus! <a href="https://clyp.it/jz0uf5nh">Listen to me eat and review this peach</a>
+<em>Bonus! <a href="https://clyp.it/jz0uf5nh">Listen to me eat and review this peach.</a>
 
 
 <!--
