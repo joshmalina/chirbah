@@ -20,7 +20,7 @@ as the star of some summer salad, or the prize winning peach at this year's stat
 Those aren't Costco fruit.
 
 Costco fruit sleep sterile, dreamless sleeps. If they do think at night, it's about packing efficiency, the automatic doors of
-late model minivans, or how their blemishes look under florescent light.
+late model minivans, or how their blemishes look under fluorescent light.
 
 Or so I thought.
 
@@ -43,11 +43,12 @@ This was a good peach. Not a rockstar peach, or even an amazing peach, but a pea
 recommend. Learn from my prejudice folk -- don't knock it till you try it.
 
 
-
 <figure>
     <img src="/assets/images/fruit_box_costco.jpg">
     <figcaption>Don't miss these peaches at Costco -- they dream!</figcaption>
 </figure>
+
+<em>Bonus! <a href="https://clyp.it/jz0uf5nh">Listen to me eat and review this peach</a>
 
 
 <!--
