@@ -9,11 +9,9 @@ description: solving the fruit asymmetry problem buy trying the fruit first
 
 <b>tl,dr: Whole Foods lets you try before you buy — take advantage</b>
 
-There is a simple way to solve the fruit asymmetry problem — just eat before you buy. At most grocery stores, this is illegal — which we don't condone at chirbah.
+There is a simple way to solve the fruit asymmetry problem — just eat before you buy. At most grocery stores, this is illegal — which we can't condone at chirbah.
 
 Fortunately, at Whole Foods, we aren't made to be criminals in our pursuit of sweet fruit — just curious, welcome customers. Twice now, in Charlottesville and Chicago, I tried fruit before buying and was much better off for it.
-
-<h4>Santa Claus Melon</h4>
 
 In Chicago, I avoided a not-so-sweet watermelon, and instead came away with a great Santa Claus Melon.
 
