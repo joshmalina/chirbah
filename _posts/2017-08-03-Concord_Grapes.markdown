@@ -21,11 +21,11 @@ description:
 
 This is a joke that my friends and I used to tell. I think the fun/funny part is saying the word "gwapes".
 
-For my birthday this year, my fine colleagues Kabir, Kolia and Sue surprised me with a cornucopia of exotic fruits. Amongst the bounty were two variety of "gwapes" that I'd never had — champagne and concord — the latter of which is very much worth recommending.
+For my birthday this year, my fine colleagues Kabir, Kolia and Sue surprised me with a cornucopia of exotic fruits. Amongst the bounty were two variety of "gwapes" that I'd never had — champagne and concord — the latter of which was very much worth recommending.
 
 ### Whole Foods Conventional Concord Grapes 
 
-<figure><img src="/assets/images/wf_concord.jpg"><figcaption>Sweet and grapey. Yes please</figcaption></figure>
+<figure><img src="/assets/images/wf_concord.jpg"><figcaption>Sweet and grapey. Yes please.</figcaption></figure>
 
 There's always been an implicit criteria that goes into a chirbah fruit review. Does the thing taste like it ought? It might be the best chicken flavour you've ever had — but if it comes in the form of a banana, our users ought to know.
 
