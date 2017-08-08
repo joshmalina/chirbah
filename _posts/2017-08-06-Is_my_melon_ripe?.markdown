@@ -7,11 +7,11 @@ tags: melon goldendew ripeness
 description: I'm exploring the meaning of ripeness
 ---
 
+<figure><img src="/assets/images/wegmans_golden.jpg"><figcaption>Where it's edible, it's highly eatable. But where it's not, it's not desirable.</figcaption></figure>
+
 Self doubt is destructive. And yet, as I eat and review fruit for this blog, I second guess myself. If I eat a fruit and judge it to be bad, how can I know that its badness is a property of the fruit, rather than my failure to properly ripen it?
 
-Just as Americans are guaranteed the right to a speedy trial by an impartial jury of their peers, so too should fruit be granted the right to be eaten, only when ripe, without prejudice … by other pieces of fruit.
-
-Umm … 
+Just as Americans are guaranteed the right to a speedy trial by an impartial jury of their peers, so too should fruit be granted the right to be eaten, when ripe, without prejudice … by other pieces of fruit? 
 
 >  Quick syllogistic digression: 
 >
@@ -20,29 +20,28 @@ Umm …
 > 3. I eat fruit
 > 4. I am a fruit
 
-Great, now to the issue of impartiality. I do have biases, for sure, biased (toward Trader Joes, regretfully, and also Walmart, happily, but I try to be transparent. I further mitigate 
+Great. Now to the issue of impartiality. I have biases, of course, but I try to be transparent. I love Trader Joe's, but the fruit sucks. I dislike Walmart, but their melons are wonderful. Capisce?
 
+The real elephant in the room — the one I cannot tame — is the mysterious notion of ripeness. Just when I thought I'd encountered all the tricks of the trade, I came across this video, in which a man rubs a melon and listens for a noise. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ozcRslS4eUM" frameborder="0" allowfullscreen></iframe>
 
- do have my biases (against Trader Joe's and Walmart, at least), but I try to be transparent about them. And, when possible, I collect the opinions of fruit people beyond myself by soliciting the blind* opinions of my colleagues.
+Of course, I promptly went into the kitchen and rubbed my half eaten Golden Dew melon — and sure enough, it made a noise. 
 
-*They don't know the origins of the fruit until after the poll has been completed
+### Wegman's Golden Honeydew
 
-I'm happy to interpret the constitution in ways that suit my agenda, so let's skip over the fruit cannibalism part and head straight to the issues of impartiality and speed. 
+After coming off the high of the <a href="/Nice_melons.html#golden-dew-golden-honeydew">Walmart Goldendew</a>, I had to meet this melon again. The one reviewed here, purchased at Wegman's for a bit more money — was just as pretty as his counterpart at Walmart — but unfortunately, not as good. 
 
-Well, maybe a bit of prejudice is ok — as long as we're transparent about it. If we're being honest about it, folks, the stakes in the fruit review business aren't terribly high. But I'll try, when I can, to collect the opinions of people beyond myself to blindly weigh in on the quality of fruit (as I've done <a>here</a> and <a>here</a>).
+There was just too much rind. 
 
-But the first threat is a lot harder to overcome — mostly, because I have no idea when fruit are ripe, or what ripeness even is. 
+In the middle, near the seeds, it was great. Soft, super sweet, and juicy. But unfortunately, that made up maybe 30%* of the melon. And for $3.99 (they are $2.68 at Walmart), I cannot recommend.
 
-I hereby grant, All fruit are guaranteed, under the chirbah
+| Sweetness | Juiciness | Price        | Recommend |
+| --------- | --------- | ------------ | --------- |
+| Sweet     | Juicy     | $3.99 / each | No        |
 
-it is written that all fruits are guaranteed, under protection of the Constipation, 
+<small>*Complete guess</small>
 
+*Bonus nonsense:*
 
-
-A lot of times when I eat fruit for this blog, and the fruit is not great, I sometimes wonder — is it the fruit or is it me?
-
-As loyal readers of this blog will known, fruit (with the exception of bananas) are famously variable in quality and taste — which is why this blog exists as a useful source of information in the first place.
-
-But despite all this variance, it's important that I don't contribute to it. It wouldn't be fair to the fruit. So if I buy a fruit and eat it too early, or let it sit on my counter too long and eat it late, I can't review that fruit in an honest way. After all, it was possibly my fault that the fruit was bad in the first place.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e9ZVD8WL5i0" frameborder="0" allowfullscreen></iframe>
