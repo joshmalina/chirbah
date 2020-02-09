@@ -7,7 +7,7 @@ tags: melon goldendew ripeness
 description: I'm exploring the meaning of ripeness
 ---
 
-<figure><img src="/assets/images/wegmans_golden.jpg"><figcaption>Where it's edible, it's highly eatable. But where it's not, it's not desirable.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/wegmans_golden.jpg"><figcaption>Where it's edible, it's highly eatable. But where it's not, it's not desirable.</figcaption></figure>
 
 Self doubt is destructive. And yet, as I eat and review fruit for this blog, I second guess myself. If I eat a fruit and judge it to be bad, how can I know that its badness is a property of the fruit, rather than my failure to properly ripen it?
 
