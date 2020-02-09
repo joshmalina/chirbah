@@ -10,7 +10,7 @@ description: The white peaches at costco are good
 <b>tl,dr: Costco Conventional White Peach; Sweetness = sweet, Juiciness = juicy; Recommend = Yes</b>
 
 <figure>
-    <img src="/assets/images/costco_wh_conv_peach.jpg">
+    <img src="/chirbah/assets/images/costco_wh_conv_peach.jpg">
     <figcaption>This peach can be eaten hurriedly in an airport parking lot and still enjoyed.</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ recommend. Learn from my prejudice folk -- don't knock it till you try it.
 
 
 <figure>
-    <img src="/assets/images/fruit_box_costco.jpg">
+    <img src="/chirbah/assets/images/fruit_box_costco.jpg">
     <figcaption>Don't miss these peaches at Costco -- they dream!</figcaption>
 </figure>
 

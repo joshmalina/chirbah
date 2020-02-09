@@ -19,7 +19,7 @@ In Chicago, I avoided a not-so-sweet watermelon, and instead came away with a gr
 | --------- | ---------- | ------------ | --------- |
 | Sweet     | Very Juicy | $4.99 / each | Yes       |
 
-<figure><img src="/assets/images/santa_claus.jpg"><figcaption>Christmas came early for this guy! This melon was sweet and very juicy.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/santa_claus.jpg"><figcaption>Christmas came early for this guy! This melon was sweet and very juicy.</figcaption></figure>
 
 <iframe width="100%" height="160" src="https://clyp.it/eg3hxwqo/widget" frameborder="0"></iframe>
 

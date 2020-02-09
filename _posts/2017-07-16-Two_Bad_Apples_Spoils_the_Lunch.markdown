@@ -24,7 +24,7 @@ fruit. But their apple game is weak.
 ### Whole Foods Conventional Fuji -- New Zealand ($1.78/lb)
 
 <figure>
-    <img src="/assets/images/conv_fuji_wf.jpg">
+    <img src="/chirbah/assets/images/conv_fuji_wf.jpg">
     <figcaption>These Fuji apples look pretty. But how do they taste?*
         <small><br>*They're from NZ ... the placard was mislabeled</small>
     </figcaption>
@@ -48,7 +48,7 @@ I can't recommend this apple because I refuse to believe that it's the best we c
 ### Whole Foods Conventional Royal Gala -- New Zealand ($1.78/lb)
 
 <figure>
-    <img src="/assets/images/wf_NZ_conf_gala.jpg">
+    <img src="/chirbah/assets/images/wf_NZ_conf_gala.jpg">
     <figcaption>Gala apples at Whole Foods ... look but please don't eat.*
         <small><br>*They're from NZ ... the placard was mislabeled</small>
     </figcaption>

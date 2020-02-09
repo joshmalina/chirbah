@@ -9,7 +9,7 @@ description:
 
 **tl,dr: the Concord grapes at Whole Foods are delicious and extremely grapey — buy them**
 
-<figure><img src="/assets/images/duck.jpg"><figcaption>It would have cost me $20 to remove the watermark from this duck. But ducks love water omg haha lmao.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/duck.jpg"><figcaption>It would have cost me $20 to remove the watermark from this duck. But ducks love water omg haha lmao.</figcaption></figure>
 
 *A duck walks into a store and asks the clerk, "Got any gwapes?". The clerk says no, and the duck leaves.*
 
@@ -25,7 +25,7 @@ For my birthday this year, my fine colleagues Kabir, Kolia and Sue surprised me 
 
 ### Whole Foods Conventional Concord Grapes 
 
-<figure><img src="/assets/images/wf_concord.jpg"><figcaption>Sweet and grapey. Yes please.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/wf_concord.jpg"><figcaption>Sweet and grapey. Yes please.</figcaption></figure>
 
 There's always been an implicit criteria that goes into a chirbah fruit review. Does the thing taste like it ought? It might be the best chicken flavour you've ever had — but if it comes in the form of a banana, our users ought to know.
 

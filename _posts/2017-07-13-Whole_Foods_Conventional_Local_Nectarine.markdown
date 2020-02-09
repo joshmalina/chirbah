@@ -14,7 +14,7 @@ Hands down, the best nectarine of the summer. When Plato imagined his forms, he 
 Crown Orchard's nectarine.
 
 <figure>
-    <img src="/assets/images/crown_orch_nectarine.JPG">
+    <img src="/chirbah/assets/images/crown_orch_nectarine.JPG">
 </figure>
 
 When I tasted this gem a few weeks ago, here were the notes I jotted down:

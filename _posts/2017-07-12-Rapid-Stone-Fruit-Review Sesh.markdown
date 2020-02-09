@@ -37,7 +37,7 @@ If you're looking for long winded, light-hearted hilarity and patient prose, com
 
 <h3>Kroger Organic Yellow Nectarine</h3>
 <figure>
-    <img style="width: 245px;" src="/assets/images/kroger_organic_nectarine.JPG"/>
+    <img style="width: 245px;" src="/chirbah/assets/images/kroger_organic_nectarine.JPG"/>
 </figure>
 <br>
 
@@ -51,7 +51,7 @@ This nectarine was fairly sweet and juicy. The skin was a little tough, but I en
 <h3>Kroger White Conventional Nectarine</h3>
 
 <figure>
-    <img style="width: 245px;" src="/assets/images/kroger_white_conv_nec.JPG"/>
+    <img style="width: 245px;" src="/chirbah/assets/images/kroger_white_conv_nec.JPG"/>
 </figure>
 <br>
 
@@ -68,7 +68,7 @@ They're sweet in a different sort of way than the yellow ones. For $2.19 / lb, t
 <h3>Kroger Yellow Conventional Nectarine</h3>
 
 <figure>
-    <img style="width: 245px;" src="/assets/images/kroger_conv_yellow_nec.JPG"/>
+    <img style="width: 245px;" src="/chirbah/assets/images/kroger_conv_yellow_nec.JPG"/>
 </figure>
 <br>
 

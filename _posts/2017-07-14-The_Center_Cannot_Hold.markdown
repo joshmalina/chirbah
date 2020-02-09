@@ -11,7 +11,7 @@ description:
 </b>
 
 <figure>
-    <img src="/assets/images/wf_conv_nec.jpg">
+    <img src="/chirbah/assets/images/wf_conv_nec.jpg">
     <figcaption>Looks good donut? Well ... it kind of is.</figcaption>
 </figure>
 

@@ -17,7 +17,7 @@ All have been ok, good, or great. Why!?!?
 
 ### Golden Dew (Golden Honeydew)
 
-<figure><img src="/assets/images/goldendew.jpg"><figcaption>Looks like a cantaloupe, right? Well son, that there is a Golden Dew.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/goldendew.jpg"><figcaption>Looks like a cantaloupe, right? Well son, that there is a Golden Dew.</figcaption></figure>
 
 Let me introduce you to the Golden Dew. It's a honeydew, but instead of a familiar greenish hue, this one's skin is bright gold! And boy, they are just as sweet.
 
@@ -33,7 +33,7 @@ I just called Walmart on Monday (July 31st) and they are still in stock.
 
 ### Conventional Cantaloupe from Kroger
 
-<figure><img src="/assets/images/kroger_cantaloupe.jpg"><figcaption>Not a bad melon, but not a good one either. Cheap, though.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/kroger_cantaloupe.jpg"><figcaption>Not a bad melon, but not a good one either. Cheap, though.</figcaption></figure>
 
 This was a big melon. And a very ripe one. It made my car smell like compost. But it wasn't really a nice melon. Like I wouldn't see it at the store and say, "Hey, nice melon. You come here often?"
 
@@ -47,7 +47,7 @@ So buy it if you plan to mix it with things, or you don't mind mediocrity, or if
 
 ### TJ's Organic Little Cantaloupe
 
-<figure><img src="/assets/images/tj_org_cantaloupe.jpg"><figcaption>Looks pretty, don't it? Some people even like it.</figcaption></figure>
+<figure><img src="/chirbah/assets/images/tj_org_cantaloupe.jpg"><figcaption>Looks pretty, don't it? Some people even like it.</figcaption></figure>
 
 I had a good feeling about this melon. I was gunning for TJ to come through on at least one piece of fruit this summer. But the people have spoken, and they aren't making it easy.
 

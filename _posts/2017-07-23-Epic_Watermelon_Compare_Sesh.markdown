@@ -27,7 +27,7 @@ TJ has made a poor showing this summer w/r/t fruit. But just as the leaves of th
 
 Too bad their watermelon also suck!!!
 
-<figure><img src="/assets/images/tj_watermelon.jpg"><figcaption>They are cheap — cheap and terrible!</figcaption></figure>
+<figure><img src="/chirbah/assets/images/tj_watermelon.jpg"><figcaption>They are cheap — cheap and terrible!</figcaption></figure>
 
 The Trader Joe's watermelon tasted like water — so don't buy this watermelon unless it's being used solely for hydration. 
 
@@ -39,7 +39,7 @@ The Trader Joe's watermelon tasted like water — so don't buy this watermelon u
 
 This organic melon was better, and actually a slim majority of my colleagues "would recommend it" (6 out of 11), but I still think it was pretty mediocre. It just wasn't sweet enough.
 
-<figure>	<img src="/assets/images/wf_watermelon.jpg"><figcaption>This pretty little guy doesn't have much flavour.</figcaption></figure>
+<figure>	<img src="/chirbah/assets/images/wf_watermelon.jpg"><figcaption>This pretty little guy doesn't have much flavour.</figcaption></figure>
 
 
 
@@ -57,7 +57,7 @@ This organic melon was better, and actually a slim majority of my colleagues "wo
 
 This was a great melon — and my first orange one! 100% of my colleagues "would recommend it". They are grown at a Virginia farm called Riverside Farm. 
 
-<figure><img src="/assets/images/inside_integral_yoga_melon.jpg"><figcaption>This watermelon, orange in colour, is much sweeter than the others. </figcaption></figure>
+<figure><img src="/chirbah/assets/images/inside_integral_yoga_melon.jpg"><figcaption>This watermelon, orange in colour, is much sweeter than the others. </figcaption></figure>
 
 <figure><h3>Aggregate Results</h3><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1dZm0hMfesINZrlgt3DOCSxkJCQsiWTeeDwF-UFUHu9w/pubchart?oid=433480054&amp;format=interactive"></iframe><figcaption>There is no disputing that the orange watermelon from Yoga Natural Foods won this round.</figcaption></figure>
 
