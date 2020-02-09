@@ -57,7 +57,7 @@ defaults:
 
 # Serving
 url: "https://joshmalina.github.io/"
-baseurl: "chirbah"
+baseurl: "chirbah/"
 
 # Includes
 include: ["_pages"]
